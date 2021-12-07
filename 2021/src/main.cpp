@@ -31,8 +31,7 @@ std::array<aoc::problem, 25> problems {{
 }};
 
 int main(int argc, char* argv[]) {
-    problems[0].execute_all();
-    problems[1].execute_all();
+    problems[5].execute_all();
 
     return 0;
 }
